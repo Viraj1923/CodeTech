@@ -1,5 +1,4 @@
 # CollabSpace — Real-Time Collaboration Tool
-### Task 3 | MERN Stack | WebSocket (Socket.IO)
 
 ---
 
@@ -59,7 +58,7 @@ npm run install-all  # installs server + client deps
 Edit `server/.env`:
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/collabtool
+MONGO_URI=url
 CLIENT_URL=http://localhost:3000
 ```
 
