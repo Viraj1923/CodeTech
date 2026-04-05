@@ -150,6 +150,4 @@ API server runs at **http://localhost:5000**
 
 ---
 
-## 👨‍💻 Author
 
-Task-2 | MERN Stack Internship Project
