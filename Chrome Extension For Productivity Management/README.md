@@ -120,6 +120,4 @@ GET /api/logs → Fetch logs
 
 ---
 
-    f.write(content)
-
 file_path
