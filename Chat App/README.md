@@ -65,7 +65,7 @@ chatapp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chatapp.git
+git clone https://github.com/Viraj1923/CodeTech.git
 cd chatapp
 ```
 
@@ -203,7 +203,5 @@ A working real-time chat application with:
 
 ---
 
-## Author
 
-Viraj — MERN Stack Internship, Task 1
 
