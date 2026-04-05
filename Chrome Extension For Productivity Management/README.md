@@ -120,4 +120,3 @@ GET /api/logs → Fetch logs
 
 ---
 
-file_path
