@@ -1,4 +1,4 @@
-# 🌤 WeatherLive — MERN Stack Weather Application
+# 🌤 WeatherLive —Weather Application
 
 A full-stack weather application built with the **MERN stack** (MongoDB, Express, React, Node.js), integrated with the **OpenWeatherMap API**.
 
@@ -65,7 +65,7 @@ Edit `.env`:
 ```env
 PORT=5000
 OPENWEATHERMAP_API_KEY=your_actual_api_key_here
-MONGODB_URI=mongodb://localhost:27017/weatherapp
+MONGODB_URI=url
 ```
 
 ### 4. Install Dependencies
@@ -135,16 +135,6 @@ API server runs at **http://localhost:5000**
 - `dotenv` — Environment variables
 - `nodemon` — Dev auto-reload
 - `concurrently` — Run client + server simultaneously
-
----
-
-## 📸 Screenshots
-
-The app features:
-- A dark, modern UI with glassmorphism-inspired cards
-- Dynamic background gradients matching weather conditions
-- Animated loading skeletons
-- Smooth hover transitions
 
 ---
 
