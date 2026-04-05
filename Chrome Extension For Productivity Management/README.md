@@ -1,4 +1,4 @@
-📌 Productivity Management Chrome Extension
+## 📌 Productivity Management Chrome Extension
 
 A full-stack productivity tracking system that monitors browsing activity, logs usage data, and provides insights through a dashboard.
 
